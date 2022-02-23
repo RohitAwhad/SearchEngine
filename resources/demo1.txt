@@ -1,0 +1,7 @@
+From the moment your organization starts collecting data, it’s crucial to make key decisions about governance. What data should you gather? How do you ensure it’s accurate and current? Where do you store it, and for how long? Today, many policies for gathering and sharing data are determined in business suites, rather than by the nature of the data itself. In order to meet strategic business requirements, you must understand and define the rules that manage your organization’s data assets.
+
+In this report, you’ll examine the many aspects of data-driven governance, particularly how this approach makes automation, enforcement, and security tasks easier. Author Federico Castanedo of Vodafone Group describes the practices and frameworks for regulatory compliance, including technology that can marry your policies to data you collect and provide fine-grained access controls.
+
+Many businesses collect large volumes of structured, unstructured, geospatial, and other data types that often require NoSQL databases alongside relational platforms. This detailed report explores how multi-model databases support a wide range of data models against a single integrated backend, enabling your organization to easily define data-driven governance policies at scale—and ultimately to help you reduce compliance costs.
+
+Discover a new approach that establishes governance at the data level versus the system level in order to reduce risk, facilitate operational decisions, and improve integrity.
