@@ -10,7 +10,12 @@ Things to consider in your implementation <br><br>
 ● What constitutes a word - <b>Any space seperated words in a line.</b> <br>
 ● What constitutes two words being equal (and matching) - <b>exact match of word is considered as match</b><br>
   
-  Note: list of the top 10 (max) matching filenames in rank order is not implemented but current implemenatation displays all file and its corresponding score as shown below.<br><br>
+  Note: 1) list of the top 10 (max) matching filenames in rank order is not implemented but current implemenatation displays all file and its corresponding score as shown below.<br>
+  2) Need to provide directory path as argument<br>
+  3) Written test suite to verify actual and expected count . It could be find under test/scala/TestLoader . Need to provide below parameter for testing<br>-DsentenceToSearch="car bus carr bananaa" -DwordDBCountExpected="2" -DwordDB1CountExpected="3" 
+
+![source-data](./img/config.png)
+<br>
   ![source-data](./img/demo.png) <br><br>
   
   <b>Command to run program from root directory </b><br>
